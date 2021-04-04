@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Route {
     private ArrayList<Node> nodes;
-    private int length;
+    private int length; 
 
     public Route(){
         nodes = new ArrayList<Node>();

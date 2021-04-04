@@ -150,7 +150,6 @@ public class Dijkstra {
         System.out.println(predecessors);
     }
 
-
     private class Predecessor{
         public Node predecessor;
         public int length;
