@@ -1,5 +1,3 @@
-package Graph;
-
 public class Edge {
 
     final public Node start, target;
